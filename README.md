@@ -17,3 +17,5 @@ Instructions for contributing to the project.
 ## This is my dev branch
 
 ### This is a TEST feature
+
+Made fix from the DEV branch
